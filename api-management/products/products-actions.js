@@ -30,7 +30,7 @@ exports.GetAllProducts = () => {
                 log.msg("success to find products in DB");
                 resolve({
                     success: true,
-                    message: "success to find products in DB",
+                    message: "success to find all maderfuckers products in DB",
                     products: products
                 });
             }
